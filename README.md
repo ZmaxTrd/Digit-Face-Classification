@@ -1,1 +1,1 @@
-# intro-ai-assignment1
+# Digit/Face Classification
